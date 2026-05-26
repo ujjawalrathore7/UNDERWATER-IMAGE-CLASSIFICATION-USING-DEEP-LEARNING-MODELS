@@ -148,12 +148,6 @@ pip install -r requirements.txt
 # Run Project
 
 ```bash
-jupyter notebook
-```
-
-or
-
-```bash
 python main.py
 ```
 
