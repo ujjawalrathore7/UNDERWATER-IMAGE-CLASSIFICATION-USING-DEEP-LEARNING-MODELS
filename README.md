@@ -134,7 +134,7 @@ The Xception model achieved the best overall classification performance due to i
 ## Clone Repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone https://github.com/ujjawalrathore7/UNDERWATER-IMAGE-CLASSIFICATION-USING-DEEP-LEARNING-MODELS.git
 ```
 
 ## Install Dependencies
